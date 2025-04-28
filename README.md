@@ -49,12 +49,15 @@ R² Score
 8.Plotted Actual vs Predicted prices.
 
 9.Interpreted the model coefficients.
+
 📊 Visualization
+
 Scatter plot between Actual Prices and Predicted Prices to visualize performance.
 
 Straight line plot to compare the predicted outputs with actual outputs.
 
 📌 Learnings
+
 > Understood how to build and evaluate a regression model.
 
 > Learned the importance of preprocessing (especially encoding categorical variables).
